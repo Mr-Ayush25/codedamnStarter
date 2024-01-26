@@ -1,0 +1,2 @@
+tabs: ['src/app/page.js']
+terminals: ["npm run dev","get started"]
