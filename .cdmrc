@@ -1,2 +1,2 @@
 tabs: ['src/app/page.js']
-terminals: ["npm run dev","get started"]
+terminals: ["static-server -p 1337 --no-cache","npm install && npm run dev"]
